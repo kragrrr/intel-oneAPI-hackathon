@@ -1,5 +1,7 @@
 # intel-oneAPI-hackathon
 
+![img](/img.png)
+
 Speeding up Mandelbrot Fractal Generation using SYCL
 
 # How to run this project
