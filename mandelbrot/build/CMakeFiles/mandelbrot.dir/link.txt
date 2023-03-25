@@ -1,0 +1,1 @@
+/glob/development-tools/versions/oneapi/2023.0.1/oneapi/compiler/2023.0.0/linux/bin/dpcpp   -g -w -O2 -g -DNDEBUG  -rdynamic CMakeFiles/mandelbrot.dir/src/main.cpp.o  -o mandelbrot  -lOpenCL -lsycl /glob/development-tools/versions/oneapi/2023.0.1/oneapi/compiler/latest/linux/lib/libsycl-complex.o 
