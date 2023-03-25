@@ -2,6 +2,8 @@
 
 Speeding up Mandelbrot Fractal Generation using SYCL
 
+# 1024 pixels resolution with 1000 iterations
+
 ![img](/img.png)
 
 # How to run this project
@@ -13,8 +15,7 @@ Speeding up Mandelbrot Fractal Generation using SYCL
 
 The script will start to generate Mandelbrot image files and store them in the `images` folder
 
-Submission by : 
-
+## Submission by 
 Krish Agrawal ([@kragrrr](https://github.com/github/Kragrrr))
 Ankush Singh ([@ankushKun](https://github.com/github/ankushKun))
 
