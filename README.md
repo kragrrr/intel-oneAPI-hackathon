@@ -16,7 +16,7 @@ Speeding up Mandelbrot Fractal Generation using SYCL
 The script will start to generate Mandelbrot image files and store them in the `images` folder
 
 ## Submission by 
-Krish Agrawal ([@kragrrr](https://github.com/github/Kragrrr))
-Ankush Singh ([@ankushKun](https://github.com/github/ankushKun))
+Krish Agrawal ([@kragrrr](https://github.com/Kragrrr))
+Ankush Singh ([@ankushKun](https://github.com/ankushKun))
 
 For Intel OneAPIs workshop/hackathon @ IIT Roorkee Cognizance
